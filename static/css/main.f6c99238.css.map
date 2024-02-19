@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.f6c99238.css","mappings":"AAAA,kBAGI,cAFA,eACA,eACA,CAEA,wBACI","sources":["pages/Home.module.scss"],"sourcesContent":[".span {\r\n    font-size: 36px;\r\n    margin-top: 20px;\r\n    color: rgb(199, 23, 23);\r\n\r\n    &:hover {\r\n        background: rgb(228, 49, 49);\r\n    }\r\n}"],"names":[],"sourceRoot":""}
